@@ -1,7 +1,6 @@
 # wine-quality-classification_Cibele
 
 
-Claro. Para um projeto acadêmico como esse, o README pode ser mais enxuto e direto:
 
 # 🍷 Classificação da Qualidade de Vinhos com Machine Learning
 
